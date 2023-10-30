@@ -1,0 +1,11 @@
+D:\calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\calculator\UnitTestProject1\bin\Debug\WindowsFormsApplication1.exe
+D:\calculator\UnitTestProject1\bin\Debug\WindowsFormsApplication1.pdb
+D:\calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\calculator\UnitTestProject1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
